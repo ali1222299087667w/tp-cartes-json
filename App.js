@@ -11,13 +11,13 @@ const users = [
   {
     id: 2,
     name: "Sara",
-    image: "https://randomuser.me/api/portraits/women/45.jpg",
+    image: "https://img.freepik.com/free-photo/young-determined-armenian-curlyhaired-female-university-student-listen-carefully-asignment-look-confident-ready-task-cross-hands-chest-smiling-selfassured-standing-white-background_176420-56066.jpg?semt=ais_hybrid&w=740&q=80",
     url: "https://img.freepik.com/free-photo/young-determined-armenian-curlyhaired-female-university-student-listen-carefully-asignment-look-confident-ready-task-cross-hands-chest-smiling-selfassured-standing-white-background_176420-56066.jpg?semt=ais_hybrid&w=740&q=80",
   },
   {
     id: 3,
     name: "Youssef",
-    image: "https://randomuser.me/api/portraits/men/11.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2uNOJZWmyhVONBJWqzD7mF8ElJ90aPz_dBXuGgCxxKbwsA3kVh3tSDVYmlFzHDGBabvk&usqp=CAU",
     url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2uNOJZWmyhVONBJWqzD7mF8ElJ90aPz_dBXuGgCxxKbwsA3kVh3tSDVYmlFzHDGBabvk&usqp=CAU",
   },
 ];
